@@ -171,4 +171,3 @@ delivery_df['city'].unique()
 
 import pickle
 pickle.dump(pipe,open('pipe.pkl','wb'))
-
